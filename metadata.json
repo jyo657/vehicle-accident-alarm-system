@@ -1,0 +1,6 @@
+{
+  "name": "JalaRaksha - Safe Drinking Water Community Portal",
+  "description": "Multilingual village safe drinking water portal with audio speaker, purification guides, disease prevention, village survey, and CSP project report from DIET Anakapalle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
